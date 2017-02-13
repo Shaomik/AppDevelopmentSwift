@@ -1,0 +1,5 @@
+// README
+
+The app is a meditation app that aids with meditation and then lets the user write a journal entry to reflect on their meditation. The journal entries are diary style so the user can go back and read through any previous entries.I have implemented a stopwatch in timerView and the graphics I created in timerView is synchronized with breathing (3 second in breath, 3 second out breath) to create a strong experience for the user to control their breathing and work on breathing techniques.
+Thank you,
+Shaomik Sarkar
